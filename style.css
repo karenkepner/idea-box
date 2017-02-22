@@ -78,7 +78,6 @@ input:focus {
   display: flex;
   flex-direction: column;
   margin-top: 20px;
-  position: relative;
 }
 
 article {
